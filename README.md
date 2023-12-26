@@ -46,7 +46,7 @@ I'm open to collaborations, learning opportunities, and networking. Connect with
 
 
 
-## 📁 Side projects
+## 📁 My projects
 
 <table>
 <tr>
