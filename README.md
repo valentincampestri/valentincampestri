@@ -1,4 +1,5 @@
-![Banner de Linkedin](https://github.com/valentincampestri/valentincampestri/assets/55076683/d3fc0502-6a05-468f-aa95-bb5d8b234bf2)
+![MeliBanner](https://github.com/valentincampestri/valentincampestri/assets/55076683/70d7e374-f43d-434a-8469-06e7ef66690b)
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/valentin-campestri/)
 
