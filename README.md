@@ -67,7 +67,7 @@ I'm open to collaborations, learning opportunities, and networking. Connect with
 <td width="50%">
   <h3 align="center">Registration System for Universities</h3>
   <div align="center">
-    <p>An integrated platform designed to facilitate various administrative tasks within educational institutions. This system encompasses modules for course registration, subject management, student enrollment, faculty registration, enrollment tracking, and payment management. Seamlessly interconnected, each component interacts with others, ensuring a cohesive and efficient workflow.</p>
+    <p>An integrated platform designed to facilitate various administrative tasks within educational institutions. This system encompasses modules for course registration, subject management, student enrollment, faculty registration, enrollment tracking, and payment management. Seamlessly interconnected, each component interacts with others, ensuring a cohesive and efficient workflow. Unit testing is incorporated to ensure reliability and robustness.</p>
     <p>
     <p>Languages: Java 17 (Spring Boot)</p>
       <a href="https://github.com/valentincampestri/CV" target="_blank">
