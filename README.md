@@ -52,9 +52,39 @@ I'm open to collaborations, learning opportunities, and networking. Connect with
 <table>
 <tr>
 <td width="50%">
+  <h3 align="center">SocialMeli (MercadoLibre Bootcamp)</h3>
+  <div align="center">
+    <p>A comprehensive API designed to enhance the buyer-seller interaction on Mercado Libre's platform. Users can follow their preferred sellers, view follower counts, and access lists of followers and followed sellers. Additionally, sellers can publish promotions and manage their promotional products. The API prioritizes user experience and reliability through robust testing, ensuring seamless integration and functionality.</p>
+    <p>
+    <p>Languages: Java 17 (Spring Boot)</p>
+      <a href="https://github.com/lucasbianchi0/Invoice-System-2023" target="_blank">
+        <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+    </p>
+  </div>
+</td>
+
+<td width="50%">
+  <h3 align="center">Registration System for Universities</h3>
+  <div align="center">
+    <p>An integrated platform designed to facilitate various administrative tasks within educational institutions. This system encompasses modules for course registration, subject management, student enrollment, faculty registration, enrollment tracking, and payment management. Seamlessly interconnected, each component interacts with others, ensuring a cohesive and efficient workflow.</p>
+    <p>
+    <p>Languages: Java 17 (Spring Boot)</p>
+      <a href="https://github.com/valentincampestri/CV" target="_blank">
+        <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+    </p>
+  </div>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
   <h3 align="center">Invoice System 2023</h3>
   <div align="center">
-    <p>Financial Management System employing the Model-View-Controller (MVC) architecture. The system encompasses modules for invoicing, payment tracking, and supplier management. Swing is utilized for a user-friendly interface, the Singleton pattern ensures the               integrity of critical controllers, and various design patterns, including Composite and Strategy, contribute to maintainability. Date handling is accomplished through SimpleDateFormat, and data manipulation is streamlined with the use of the Stream API. This            project demonstrates effective design patterns, modularity, and technological integration within the financial domain.</p>
+    <p>Financial Management System employing the Model-View-Controller (MVC) architecture. The system encompasses modules for invoicing, payment tracking, and supplier management. Swing is utilized for a user-friendly interface, the Singleton pattern ensures the integrity of critical controllers, and various design patterns, including Composite and Strategy, contribute to maintainability. Date handling is accomplished through SimpleDateFormat, and data manipulation is streamlined with the use of the Stream API. This project demonstrates effective design patterns, modularity, and technological integration within the financial domain.</p>
     <p>
     <p>Languages: Java 17</p>
       <a href="https://github.com/lucasbianchi0/Invoice-System-2023" target="_blank">
@@ -67,7 +97,7 @@ I'm open to collaborations, learning opportunities, and networking. Connect with
 <td width="50%">
   <h3 align="center">CV</h3>
   <div align="center">
-    <p>Portfolio Website showcasing a clean and modern design to present my technical skills and project portfolio effectively. The site is designed with a focus on user experience, implementing responsive design principles for optimal viewing on different devices. The        interface includes smooth transitions and visually appealing elements, creating an engaging and interactive experience.</p>
+    <p>Portfolio Website showcasing a clean and modern design to present my technical skills and project portfolio effectively. The site is designed with a focus on user experience, implementing responsive design principles for optimal viewing on different devices. The interface includes smooth transitions and visually appealing elements, creating an engaging and interactive experience.</p>
     <p>
     <p>Languages: HTML, CSS, JavaScript</p>
       <a href="https://github.com/valentincampestri/CV" target="_blank">
@@ -84,7 +114,7 @@ I'm open to collaborations, learning opportunities, and networking. Connect with
 <td width="50%">
   <h3 align="center">SteamTradingCards</h3>
   <div align="center">
-    <p>Program that automates the search for elements called 'trading cards' on the Steam gaming platform, showcasing proficiency in web scraping and automation. Implemented dynamic URL generation based on extracted Steam App IDs, ensuring adaptability to different            game links. Utilized the requests library for HTTP requests, BeautifulSoup for web scraping, and colorama for enhanced console outputs.</p>
+    <p>Program that automates the search for elements called 'trading cards' on the Steam gaming platform, showcasing proficiency in web scraping and automation. Implemented dynamic URL generation based on extracted Steam App IDs, ensuring adaptability to different game links. Utilized the requests library for HTTP requests, BeautifulSoup for web scraping, and colorama for enhanced console outputs.</p>
     <p>
     <p>Languages: Python</p>
       <a href="https://github.com/valentincampestri/SteamTradingCards" target="_blank">
@@ -97,7 +127,7 @@ I'm open to collaborations, learning opportunities, and networking. Connect with
 <td width="50%">
   <h3 align="center">Brewery Website</h3>
   <div align="center">
-    <p>Developed a dynamic and visually engaging website for a brewery, emphasizing seamless navigation and user interaction. Leveraging Bootstrap 5, the site incorporates an accordion-style FAQ section for efficient information retrieval and a grid-based image gallery        to showcase the brewery's facilities, and a responsive shopping cart for a streamlined user experience. These design elements collectively demonstrate a keen focus on user interaction and an aesthetically pleasing presentation.</p>
+    <p>Developed a dynamic and visually engaging website for a brewery, emphasizing seamless navigation and user interaction. Leveraging Bootstrap 5, the site incorporates an accordion-style FAQ section for efficient information retrieval and a grid-based image gallery to showcase the brewery's facilities, and a responsive shopping cart for a streamlined user experience. These design elements collectively demonstrate a keen focus on user interaction and an aesthetically pleasing presentation.</p>
     <p>
     <p>Languages: HTML, CSS, JavaScript (+ Boostrap 5)</p>
       <a href="https://github.com/valentincampestri/Brewery-Website" target="_blank">
