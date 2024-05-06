@@ -57,7 +57,7 @@ I'm open to collaborations, learning opportunities, and networking. Connect with
     <p>A comprehensive API designed to enhance the buyer-seller interaction on Mercado Libre's platform. Users can follow their preferred sellers, view follower counts, and access lists of followers and followed sellers. Additionally, sellers can publish promotions and manage their promotional products. The API prioritizes user experience and reliability through robust testing, ensuring seamless integration and functionality.</p>
     <p>
     <p>Languages: Java 17 (Spring Boot)</p>
-      <a href="https://github.com/lucasbianchi0/Invoice-System-2023" target="_blank">
+      <a href="https://github.com/valentincampestri/SocialMeli" target="_blank">
         <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
@@ -70,7 +70,7 @@ I'm open to collaborations, learning opportunities, and networking. Connect with
     <p>An integrated platform designed to facilitate various administrative tasks within educational institutions. This system encompasses modules for course registration, subject management, student enrollment, faculty registration, enrollment tracking, and payment management. Seamlessly interconnected, each component interacts with others, ensuring a cohesive and efficient workflow. Unit testing is incorporated to ensure reliability and robustness.</p>
     <p>
     <p>Languages: Java 17 (Spring Boot)</p>
-      <a href="https://github.com/valentincampestri/CV" target="_blank">
+      <a href="https://github.com/valentincampestri/Registration-system-for-universities" target="_blank">
         <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
