@@ -87,7 +87,7 @@ I'm open to collaborations, learning opportunities, and networking. Connect with
     <p>Financial Management System employing the Model-View-Controller (MVC) architecture. The system encompasses modules for invoicing, payment tracking, and supplier management. Swing is utilized for a user-friendly interface, the Singleton pattern ensures the integrity of critical controllers, and various design patterns, including Composite and Strategy, contribute to maintainability. Date handling is accomplished through SimpleDateFormat, and data manipulation is streamlined with the use of the Stream API. This project demonstrates effective design patterns, modularity, and technological integration within the financial domain.</p>
     <p>
     <p>Languages: Java 17</p>
-      <a href="https://github.com/lucasbianchi0/Invoice-System-2023" target="_blank">
+      <a href="https://github.com/valentincampestri/Invoice-System-2023" target="_blank">
         <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
