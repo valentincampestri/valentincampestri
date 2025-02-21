@@ -5,7 +5,7 @@
 
 # 👋 About Me
 
-Hello! 👋 I'm Valentín Campestri, a 23-year-old enthusiast from Argentina, specializing in backend development.
+Hello! 👋 I'm Valentín Campestri, a 24-year-old enthusiast from Argentina, specializing in backend development.
 
 ## 📚 Portfolio
 
